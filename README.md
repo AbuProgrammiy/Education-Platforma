@@ -1,14 +1,34 @@
-## Assalomu alaykum
-bu yerda siz bizning Education-platforma dasturimizga havola olishingiz mumkin.
-Kirgandan so'ng bir marta refresh berilsa moshni ishlayapti
+### Hayirli kun!😋
+#
+### Tanishtiruv
+##### Ushbu projectimizni(ERP) maqsadi maktab yoki ouqv markazdagi oquvchi, ustoz va boshqa hodimlar uchun tizim yaratgan holda nazorat qilish va rag'batlantirish imkoniyatini beradi!
+##### `Juda` ham chiroyli va responsive UI userga qulaylik va rohat bag'ishlaydi
+#
+### O'rnatish
+##### 1: Node.JS o'rnatilishi kerak [`https://nodejs.org/`](https://nodejs.org/)
+##### 2: `CMD`da ushbu comanda orqali `npm install -g @angular/cli` Angular Frameworki o'rnatiladi
+##### 3: Projectimiz clone qilingan joyga `npm install` commandasi ishga tushuriladi CMDida
+##### 4: Projectimiz run qilish uchun `ng serve` qilinadi
+##### 5: Projectimizni default holatda [`localhost:4200`](https://localhost:4200) da topishingiz va ishlatib korishingiz mumkin
+##### `Qo'sjimcha:` Front-Endni run qilishingiz o'zi yetarli, ma'lumotlarni serverdagi Back-Endan olib keladi. Agar back-endni ham ozingizda run qilmoqchi bolsangiz, environments folderini ichidagi environment.deployment.ts file ichidagi urlni o'zgartirishingiz kifoya. Back-Endni ushbu [link](https://github.com/AbuProgrammiy/CMS) orqali olishingiz mumkin 
+#
+#
+### Birinchi navbatda siz `login` page ko'rinadi:
+##### u yerda siz email=`admin@gmail.com` password=`Sardor0618!` CID data orqali login qilishingiz mumkin.
+#
+#
+## Sinab korishingiz uchun [Fornt-End](https://edu.tohirjon.uz/) va [Back-End](https://edu-api.tohirjon.uz/swagger/index.html) serverga joylangan
+#
 [YouTube](https://youtu.be/S8d4Wa-pIAc)
 
-admin@gmail.com
-Sardor0618!
+
+
  
 # USER
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/e553ffbe-565d-47cd-8390-2acb3ab6b8f6)
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/c4b2ac5c-5608-45b9-93f8-954d62f02b9a)
+![image](https://github.com/AbuProgrammiy/Education-Platforma/assets/145345550/26a48d58-40c9-4cc5-8300-4bd20dc7dc96)
+![image](https://github.com/AbuProgrammiy/Education-Platforma/assets/145345550/22d67b67-9b8e-44dc-b079-10973f5879bd)
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/88aa92b3-1a70-48d3-8569-b445adf8fc07)
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/9594f050-4633-4ea2-84c8-831ad648d99a)
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/1fc39001-86a2-434b-97e8-755c991e582b)
@@ -18,8 +38,10 @@ Sardor0618!
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/170c2e00-7754-477c-a399-01c545fa99bb)
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/3e22b855-2951-47f9-9ab3-697ad426bbfe)
 
-tohirjon@gmail.com
-Salom!1234
+
+### Admin uchun CID data email=`tohirjon@gmail.com` password=`Salom!1234`
+
+
 
 # ADMIN
 ![image](https://github.com/Education-Platforma/Education-Platforma/assets/82634626/1d8d2e7d-e316-44b5-9839-232c8da0f0ee)
