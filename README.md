@@ -14,7 +14,7 @@
 #
 #
 ### Birinchi navbatda siz `login` page ko'rinadi:
-##### u yerda siz email=`admin@gmail.com` password=`Sardor0618!` CID data orqali login qilishingiz mumkin.
+##### u yerda siz email=`admin@gmail.com` password=`Sardor0618!` CD data orqali login qilishingiz mumkin.
 #
 #
 ## Sinab korishingiz uchun [Fornt-End](https://edu.tohirjon.uz/) va [Back-End](https://edu-api.tohirjon.uz/swagger/index.html) serverga joylangan
